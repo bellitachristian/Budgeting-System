@@ -25,4 +25,4 @@ function NewEntryForm() {
   )
 }
 
-export default NewEntryForm
+export default NewEntryForm;
